@@ -1,0 +1,17 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Variable_assigment
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            String thisroom;
+            int myclass 
+        }
+    }
+}
